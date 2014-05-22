@@ -8,7 +8,7 @@ import javax.ws.rs.core.MediaType;
 /**
  * Root resource (exposed at "myresource" path)
  */
-@Path("myresource")
+@Path("myresource")//uri relativa htttp...../beeter-api/myresource
 public class MyResource {
 
     /**
@@ -19,7 +19,7 @@ public class MyResource {
      */
     @GET
     @Produces(MediaType.TEXT_PLAIN)
-    public String getIt() {
+    public String getIt() {//encargado de las peticiones via uri con el get
         return "Got it!";
     }
 }
