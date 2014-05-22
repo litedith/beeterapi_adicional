@@ -1,5 +1,25 @@
 # Beeter
 
+
+Para encontrar las clases se encuentran en
+https://github.com/litedith/beeterapi_adicional/tree/master/beeter-server/beeter-api/src/main/java/edu/upc/eetac/dsa/egalmes/beeter/api
+
+las funciones adicionales se encuentran en el UserResource
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Beeter is an educational project developed at course "Design of Services and Applications" of  Castelldefels School of Telecommunications and Aerospace Engineering (EETAC). Beeter is a very simple microblogging service with a web front-end developed with Bootstrap and jQuery, and an android front-end.
 
 ## System requirements
